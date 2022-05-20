@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace SimpleCICD_webAPI.Helper
 {
+    //靜態方法
     public static class TestList
     {
         public static  List<int> GenerateList()
