@@ -1,0 +1,2 @@
+1.建立好API與UT
+2.在本地用docker啟用jenkins
